@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_on": "2026-11-09",
+  "updated_on": "2026-11-10",
   "contact": {
     "name": "Kuare ICT Solutions",
     "email": "support@kuareict.co.tz",
@@ -16,8 +16,8 @@
   "modules": [
     {"key": "kuare_core", "name": "Kuare Core", "group": "tools", "icon": "layout-grid",
      "description": "The shared base of every Kuare module: one list of people, shared lists, approvals, Design Studio and the Kuare look.",
-     "latest_version": "1.4.8", "released_on": "2026-11-09", "min_core": "",
-     "changes": ["Kuare pages follow your CRM theme's light or dark mode, also when you switch it with the sun/moon button"]},
+     "latest_version": "1.5.1", "released_on": "2026-11-10", "min_core": "",
+     "changes": ["Kuare Design Studio shows as installed in the Kuare modules list", "Reports and list downloads by customers say \"Prepared on\" / \"Generated on\" with the date instead of a blank name", "PDF reports can show statuses in colours you choose", "Dates in every Kuare list show in your CRM's own date format, on one line"]},
     {"key": "staffhub_pro", "name": "StaffHub Pro", "group": "people", "icon": "id-card",
      "description": "The employee file: people, organisation, contracts, pay structures and documents.",
      "latest_version": "1.4.8", "released_on": "2026-11-09", "min_core": "1.4.3",
