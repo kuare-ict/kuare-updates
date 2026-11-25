@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updated_on": "2026-11-15",
+  "updated_on": "2026-11-25",
   "contact": {
     "name": "Kuare ICT Solutions",
     "email": "support@kuareict.co.tz",
@@ -24,8 +24,8 @@
      "changes": ["The Owner can approve their own requests and payment details when owner self-approval is on", "Each one is marked self-approved by owner", "The Owner's own payment details are saved in one step", "Approve and Reject buttons sit on one line", "No duplicate payment details left waiting", "Reason boxes show one clean ring while you type"]},
     {"key": "stafftime_pro", "name": "StaffTime Pro", "group": "people", "icon": "calendar-clock",
      "description": "Leave, public holidays, attendance, overtime and business trips with approvals.",
-     "latest_version": "1.3.9", "released_on": "2026-11-09", "min_core": "1.4.3",
-     "changes": ["Check-out is never refused: without a position it is saved as Without location, with the reason", "New setting for computers that give no position: allow and flag, or refuse", "Office network addresses count as In office", "Check-in addresses show the street or area instead of a map code", "Business trips shown as a list"]},
+     "latest_version": "1.4.1", "released_on": "2026-11-25", "min_core": "1.4.3",
+     "changes": ["With Kuare Core 1.6.3, every list works like the Sales lists: rows per page, page numbers, saved views and the place kept in the address", "View, Edit, Cancel and Remove under each row, only for what you may do; Cancel and Remove ask first", "A person's name opens their leave or month of attendance when you may see it", "Figures with no value are left empty instead of 0"]},
     {"key": "staffpay_pro", "name": "StaffPay Pro", "group": "people", "icon": "banknote",
      "description": "Monthly payroll with PAYE and statutory deductions, payslips, bank and tax files.",
      "latest_version": "1.4.2", "released_on": "2026-11-06", "min_core": "1.1.0",
