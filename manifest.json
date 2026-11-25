@@ -25,7 +25,7 @@
     {"key": "stafftime_pro", "name": "StaffTime Pro", "group": "people", "icon": "calendar-clock",
      "description": "Leave, public holidays, attendance, overtime and business trips with approvals.",
      "latest_version": "1.4.1", "released_on": "2026-11-25", "min_core": "1.4.3",
-     "changes": ["With Kuare Core 1.6.3, every list works like the Sales lists: rows per page, page numbers, saved views and the place kept in the address", "View, Edit, Cancel and Remove under each row, only for what you may do; Cancel and Remove ask first", "A person's name opens their leave or month of attendance when you may see it", "Figures with no value are left empty instead of 0"]},
+     "changes": ["With Kuare Core 1.6.3, every list works like the Sales lists: rows per page, page numbers, saved views and the place kept in the address", "View, Approve, Print, Edit, Cancel and Remove under each row, only for what you may do; Approve, Cancel and Remove ask first", "A person's name opens their leave or month of attendance when you may see it", "Figures with no value are left empty instead of 0"]},
     {"key": "staffpay_pro", "name": "StaffPay Pro", "group": "people", "icon": "banknote",
      "description": "Monthly payroll with PAYE and statutory deductions, payslips, bank and tax files.",
      "latest_version": "1.4.2", "released_on": "2026-11-06", "min_core": "1.1.0",
