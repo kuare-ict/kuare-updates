@@ -21,7 +21,7 @@
     {"key": "staffhub_pro", "name": "StaffHub Pro", "group": "people", "icon": "id-card",
      "description": "The employee file: people, organisation, contracts, pay structures and documents.",
      "latest_version": "1.5.0", "released_on": "2026-11-25", "min_core": "1.4.3",
-     "changes": ["Lists work like the CRM's own lists with Kuare Core 1.6.3: rows per page in the toolbar, page numbers and a refresh button", "Save your own views of a list and share them; a shared view never shows anyone more than they may see", "Departments, positions, grades, managers and names in a list open that record when you may open it", "Open, Job details, Contracts and other actions sit under each row", "A grade without a salary band shows empty cells instead of 0.00", "CRM logins can be added as employees before departments are set up"]},
+     "changes": ["Lists work like the CRM's own lists with Kuare Core 1.6.3: rows per page in the toolbar, page numbers and a refresh button", "Save your own views of a list and share them; a shared view never shows anyone more than they may see", "Departments, positions, grades, managers and names in a list open that record when you may open it", "Open, Job details, Contracts and other actions sit under each row", "A grade without a salary band shows empty cells instead of 0.00", "Reading a scanned PDF no longer lets the PDF run a hidden script", "CRM logins can be added as employees before departments are set up"]},
     {"key": "stafftime_pro", "name": "StaffTime Pro", "group": "people", "icon": "calendar-clock",
      "description": "Leave, public holidays, attendance, overtime and business trips with approvals.",
      "latest_version": "1.3.9", "released_on": "2026-11-09", "min_core": "1.4.3",
